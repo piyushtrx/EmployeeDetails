@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.trash {
+  /* padding-left: 500px; */
+  margin-left: 370px;
+  cursor: pointer;
+}
+.edit {
+  margin-right: 50px;
+  cursor: pointer;
+}
+footer {
+  display: none;
+}
+input {
+  border-radius: 20px;
+}
